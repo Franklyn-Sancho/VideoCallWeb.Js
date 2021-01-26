@@ -5,11 +5,11 @@
 
 ## Home Page
 
-![home page](.public/prints/home.png)
+<img src="https://github.com/Franklyn-Sancho/VideoCallWeb.Js/blob/main/public/prints/home.png">
 
 ## Room
 
-![room](.public/prints/room.png)
+<img src="https://github.com/Franklyn-Sancho/VideoCallWeb.Js/blob/main/public/prints/room.png">
 
 ### Créditos
 
