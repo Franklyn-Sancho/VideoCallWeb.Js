@@ -4,12 +4,11 @@
 - Acesse o [room](./page/room/index.html) uma room específica
 
 ## Home Page
-
-![home page](./prints/home.png)
+<img src="https://github.com/Franklyn-Sancho/VideoCallWeb.Js/blob/main/public/prints/home.png">
 
 ## Room
 
-![room](./prints/room.png)
+<img src="https://github.com/Franklyn-Sancho/VideoCallWeb.Js/blob/main/public/prints/room.png">
 
 ### Créditos
 
